@@ -21,6 +21,7 @@ For easy acccess of the data we can use the [ISIC downloader](https://github.com
 Just follow the instruction set written in the repository to get the data. We have done some exploration on the dataset and tried to solve this problem using 2 approaches
 
 [EDA and Segmentation using opencv](0_SkinLesionSegmentation_EDA_preprocessing.ipynb)
+
 [Model based on SegNet Architecture](1_SkinLesionSegmentation.ipynb)
 
 
