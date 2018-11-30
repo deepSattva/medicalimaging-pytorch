@@ -13,4 +13,4 @@ The impact of deep learning in the field of Medical sciences is immense. We are 
 
 
 ## Content
-1. [Ultrasound Nerve Segmentation](https://github.com/deepSattva/ultrasound-nervesegmentation)
+1. [Ultrasound Nerve Segmentation](https://github.com/deepSattva/medicalimaging-pytorch/tree/master/ultrasound-nervesegmentation)
